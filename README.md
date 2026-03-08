@@ -3,6 +3,7 @@ Some papers related to number theory, mathematical analysis, algorithms, artific
 
 
 《一元高次方程通用解析解生成器：一种递归算法范式》
+
        English Edition:  《A Universal Recursive Generator for Analytic Solutions of Univariate Higher-Degree Equations： A New Algorithmic Paradigm + Appendix A》
 
 用途与意义：
@@ -18,6 +19,7 @@ Purpose and significance:
 
 
 《科拉茨猜想的证明：基于结构不守恒性的归约》
+
        English Edition:  《Proof of the Collatz Conjecture: Reduction Based on Structural Non-Conservation》
 
 用途与意义：
